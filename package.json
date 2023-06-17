@@ -11,6 +11,7 @@
   "dependencies": {
     "@pixi/react": "^7.1.0",
     "autoprefixer": "10.4.14",
+    "lint": "^0.8.19",
     "next": "13.4.6",
     "pixi.js": "^7.2.4",
     "postcss": "8.4.24",
